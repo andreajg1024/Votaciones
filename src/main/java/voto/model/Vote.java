@@ -1,4 +1,4 @@
-package cue.edu.co.vote.model;
+package voto.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,8 +1,8 @@
-package cue.edu.co.vote.view;
+package voto.view;
 
-import cue.edu.co.vote.controller.MainController;
-import cue.edu.co.vote.database.CandidateDAO;
-import cue.edu.co.vote.model.Candidate;
+import voto.controller.MainController;
+import voto.database.CandidateDAO;
+import voto.model.Candidate;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;

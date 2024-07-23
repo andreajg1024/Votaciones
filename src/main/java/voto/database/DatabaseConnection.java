@@ -1,4 +1,4 @@
-package cue.edu.co.vote.database;
+package voto.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

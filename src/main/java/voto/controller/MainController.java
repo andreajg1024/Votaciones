@@ -1,11 +1,8 @@
-package cue.edu.co.vote.controller;
+package voto.controller;
 
-import cue.edu.co.vote.database.CandidateDAO;
-import cue.edu.co.vote.model.Candidate;
-import cue.edu.co.vote.view.VotingView;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
-import javafx.scene.control.Button;
+import voto.database.CandidateDAO;
+import voto.model.Candidate;
+import voto.view.VotingView;
 import javafx.stage.Stage;
 
 import java.sql.SQLException;

@@ -1,6 +1,6 @@
-package cue.edu.co.vote.database;
+package voto.database;
 
-import cue.edu.co.vote.model.Candidate;
+import voto.model.Candidate;
 
 import java.sql.*;
 import java.util.ArrayList;

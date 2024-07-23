@@ -1,4 +1,4 @@
-package cue.edu.co.vote.view;
+package voto.view;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;

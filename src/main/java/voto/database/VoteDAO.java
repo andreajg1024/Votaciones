@@ -1,6 +1,6 @@
-package cue.edu.co.vote.database;
+package voto.database;
 
-import cue.edu.co.vote.model.Vote;
+import voto.model.Vote;
 
 import java.sql.*;
 

@@ -1,9 +1,9 @@
-package cue.edu.co.vote.view;
+package voto.view;
 
-import cue.edu.co.vote.database.VoteDAO;
-import cue.edu.co.vote.database.VoterDAO;
-import cue.edu.co.vote.model.Candidate;
-import cue.edu.co.vote.model.Vote;
+import voto.database.VoteDAO;
+import voto.database.VoterDAO;
+import voto.model.Candidate;
+import voto.model.Vote;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
